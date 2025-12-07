@@ -75,7 +75,7 @@ const developer = {
 
 <div align="center">
   <a href="mailto:seyedhyno@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/HyNO-IR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/TheHyno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discord.com/users/1270306895537639430"><img src="https://dcbadge.limes.pink/api/shield/1270306895537639430?logoColor=presence"/></a>
 </div>
 
